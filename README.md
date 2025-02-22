@@ -1,6 +1,6 @@
 # Blackboard-Embedded-PDF-opener
 
-This is a Chromium based browser extension designed to open embedded PDFs in a new tab on the Blackboard Learn educational website.
+This is a Chromium based browser extension designed to open embedded PDFs in a new tab on the Blackboard Learn educational website (specifically the University of Edinburgh version).
 
 ## Features
 
