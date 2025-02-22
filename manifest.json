@@ -1,0 +1,11 @@
+// manifest.json
+{
+  "manifest_version": 3,
+  "name": "Doc Opener",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  }
+}
